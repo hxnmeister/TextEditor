@@ -1,0 +1,10 @@
+C:\GitHubDesktop\TextEditor\bin\Debug\TextEditor.exe.config
+C:\GitHubDesktop\TextEditor\bin\Debug\TextEditor.exe
+C:\GitHubDesktop\TextEditor\bin\Debug\TextEditor.pdb
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.TextEditor.resources
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.exe
+C:\GitHubDesktop\TextEditor\obj\Debug\TextEditor.pdb
